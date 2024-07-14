@@ -1,4 +1,4 @@
-#Ariel Seidman's Portfolio
+# Ariel Seidman's Portfolio
 
-###Education
+### Education
 Mathematics Theory and Computation BS, Economics BA
