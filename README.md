@@ -1,4 +1,4 @@
-# Data Science, Mathematics, Economics
+# Data Science, Mathematics
 
 #### Technical Skills: Python, SQL, R, Matlab, Stata
 
