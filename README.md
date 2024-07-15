@@ -3,7 +3,8 @@
 #### Technical Skills: Python, SQL, R, Matlab, Stata
 
 ## Education 			        		
-- B.S., Mathematics Theory and Computation; B.A., Economics | The University of California, Santa Cruz (_December 2023_)
+- B.S., Mathematics Theory and Computation; B.A., Economics
+  Senior Reserach Paper: Mathematics for Machine Learning | The University of California, Santa Cruz (_December 2023_)
 
 ## Work Experience
 **Business Analytics Extern @ HP (_February 2024 - March 2024_)**
@@ -25,6 +26,3 @@
 ### Algorithms for Jacobi Iterative and Gauss-Siedel Iterative Methods of Solving Linear Systems in Matlab
 
 ### Algorithm for Successive Overrelaxation Method of Solving Linear System in Matlab
-
-## Papers
-### Mathematics for Machine Learning
