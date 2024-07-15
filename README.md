@@ -18,7 +18,7 @@
 
 ### Sentiment Analysis in Python: Hotel Reviews
 
-### Algorithm for Solving System of Equations with Gaussian Elimination in Matlab
+### [Algorithm for Solving System of Equations with Gaussian Elimination in Matlab](https://github.com/arielseidman/Gaussian-Elimination/blob/main/gauss_e2.m)
 
 ### Algorithm for Row Reduction Using Inverse of Matrix in Matlab
 
