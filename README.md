@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, R, Matlab, Stata
 
 ## Education 			        		
-- B.S., Mathematics Theory and Computation; B.A., Economics
-  Senior Reserach Paper: Mathematics for Machine Learning | The University of California, Santa Cruz (_December 2023_)
+- B.S., Mathematics Theory and Computation; B.A., Economics | The University of California, Santa Cruz (_December 2023_)
+Senior Reserach Paper: Mathematics for Machine Learning
 
 ## Work Experience
 **Business Analytics Extern @ HP (_February 2024 - March 2024_)**
