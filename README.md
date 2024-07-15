@@ -15,9 +15,16 @@
 **Mathematics Tutor @ The University of California, Santa Cruz (_September 2021 - March 2022_)**
 
 ## Projects
-### Gaussian Elimination in Matlab
 
 ### Sentiment Analysis in Python: Hotel Reviews
+
+### Algorithm for Solving System of Equations with Gaussian Elimination in Matlab
+
+### Algorithm for Row Reduction Using Inverse of Matrix in Matlab
+
+### Algorithms for Jacobi Iterative and Gauss-Siedel Iterative Methods of Solving Linear Systems in Matlab
+
+### Algorithm for Successive Overrelaxation Method of Solving Linear System in Matlab
 
 ## Papers
 ### Mathematics for Machine Learning
