@@ -4,6 +4,7 @@
 
 ## Education 			        		
 - B.S., Mathematics Theory and Computation; B.A., Economics | The University of California, Santa Cruz (_December 2023_)
+
 Senior Reserach Paper: Mathematics for Machine Learning
 
 ## Work Experience
