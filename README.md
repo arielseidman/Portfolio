@@ -16,7 +16,7 @@ Senior Reserach Paper: Mathematics for Machine Learning
 
 **Mathematics Tutor @ The University of California, Santa Cruz (_September 2021 - March 2022_)** -->
 
-## Projects
+## <code style="color : aquamarine">Projects</code>
 
 ### Sentiment Analysis in Python: Recipe Reviews Data
 
@@ -26,7 +26,7 @@ Senior Reserach Paper: Mathematics for Machine Learning
 
 ### Successive Over-Relaxation Algorithm in Matlab
 
-## Publications
+## <code style="color : aquamarine">Publications</code>
 
 ### UC Santa Cruz Senior Research Paper: Mathematics for Machine Learning
 <!--- ### [Algorithm for Solving System of Equations with Gaussian Elimination in Matlab](https://github.com/arielseidman/Gaussian-Elimination/blob/main/gauss_e2.m) 
