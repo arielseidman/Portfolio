@@ -24,9 +24,9 @@ Senior Reserach Paper: Mathematics for Machine Learning
 
 ### SQL
 
-### Jacobi and Gauss-Siedel Algorithms for Solving Linear Systems in Matlab
+### Jacobi and Gauss-Seidel Algorithms in Matlab
 
-### SOR Algorithm for Solving Linear Systems in Matlab
+### Successive Over-Relaxation Algorithm in Matlab
 
 
 
