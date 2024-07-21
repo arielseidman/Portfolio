@@ -24,13 +24,12 @@ Senior Reserach Paper: Mathematics for Machine Learning
 
 ### SQL
 
+### Successive Over-Relaxation Algorithm in Matlab
+<!--- ### [Algorithm for Solving System of Equations with Gaussian Elimination in Matlab](https://github.com/arielseidman/Gaussian-Elimination/blob/main/gauss_e2.m) 
+
 ### Jacobi and Gauss-Seidel Algorithms in Matlab
 
-### Successive Over-Relaxation Algorithm in Matlab
-
-
-
-<!--- ### [Algorithm for Solving System of Equations with Gaussian Elimination in Matlab](https://github.com/arielseidman/Gaussian-Elimination/blob/main/gauss_e2.m) -->
+-->
 
 <!---              ### Algorithm for Row Reduction Using Inverse of Matrix in Matlab -->
 
