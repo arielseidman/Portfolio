@@ -16,7 +16,7 @@ Senior Reserach Paper: Mathematics for Machine Learning
 
 **Mathematics Tutor @ The University of California, Santa Cruz (_September 2021 - March 2022_)** -->
 
-## $\color{magenta}{\textsf{Projects}}$
+$\color{magenta}{\textsf{## Projects}}$
 
 ### Sentiment Analysis in Python: Recipe Reviews Data
 
