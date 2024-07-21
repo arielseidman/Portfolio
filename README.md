@@ -1,4 +1,4 @@
-# Data Science and Mathematics Portfolio
+# Data Science and Mathematics Projects
 
 <!---#### Technical Skills: Python, R, SQL, Matlab, Stata
 
@@ -14,9 +14,9 @@ Senior Reserach Paper: Mathematics for Machine Learning
 
 **Economics Tutor @ The University of California, Santa Cruz (_March 2022 - June 2022_)**
 
-**Mathematics Tutor @ The University of California, Santa Cruz (_September 2021 - March 2022_)** -->
+**Mathematics Tutor @ The University of California, Santa Cruz (_September 2021 - March 2022_)** 
 
-## <code style="color : blue">Projects</code>
+## <code style="color : blue">Projects</code>-->
 
 ### Sentiment Analysis in Python: Recipe Reviews Data
 
