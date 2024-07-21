@@ -26,10 +26,10 @@ Senior Reserach Paper: Mathematics for Machine Learning
 
 ### Successive Over-Relaxation Algorithm in Matlab
 
-## <code style="color : blue">Publications</code>
+<!---## <code style="color : blue">Publications</code>
 
 ### UC Santa Cruz Senior Research Paper: Mathematics for Machine Learning
-<!--- ### [Algorithm for Solving System of Equations with Gaussian Elimination in Matlab](https://github.com/arielseidman/Gaussian-Elimination/blob/main/gauss_e2.m) 
+ ### [Algorithm for Solving System of Equations with Gaussian Elimination in Matlab](https://github.com/arielseidman/Gaussian-Elimination/blob/main/gauss_e2.m) 
 
 ### Jacobi and Gauss-Seidel Algorithms in Matlab
 
