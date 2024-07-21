@@ -1,6 +1,6 @@
 # Data Science, Mathematics
 
-#### Technical Skills: Python, SQL, R, Matlab, Stata
+#### Technical Skills: Python, R, SQL, Matlab, Stata
 
 ## Education 			        		
 - B.S., Mathematics Theory and Computation; B.A., Economics | The University of California, Santa Cruz (_December 2023_)
@@ -18,12 +18,19 @@ Senior Reserach Paper: Mathematics for Machine Learning
 
 ## Projects
 
-### Sentiment Analysis in Python: Hotel Reviews
+### Sentiment Analysis in Python: Recipe Reviews Data
 
-### [Algorithm for Solving System of Equations with Gaussian Elimination in Matlab](https://github.com/arielseidman/Gaussian-Elimination/blob/main/gauss_e2.m)
+### K-Means Clustering in R: Land Mines Data
 
-### Algorithm for Row Reduction Using Inverse of Matrix in Matlab
+### SQL
 
-### Algorithms for Jacobi Iterative and Gauss-Siedel Iterative Methods of Solving Linear Systems in Matlab
+### Jacobi and Gauss-Siedel Algorithms for Solving Linear Systems in Matlab
 
-### Algorithm for Successive Overrelaxation Method of Solving Linear System in Matlab
+### SOR Algorithm for Solving Linear Systems in Matlab
+
+
+
+<!--- ### [Algorithm for Solving System of Equations with Gaussian Elimination in Matlab](https://github.com/arielseidman/Gaussian-Elimination/blob/main/gauss_e2.m) -->
+
+<!---              ### Algorithm for Row Reduction Using Inverse of Matrix in Matlab -->
+
