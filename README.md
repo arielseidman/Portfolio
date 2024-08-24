@@ -1,5 +1,10 @@
-# Data Science and Mathematics Projects
+## Projects
 
+### Completed
+#### [K-Means Clustering in R: Plants Data]( https://github.com/arielseidman/Plants.git)
+
+### In-Progress
+#### [Sentiment Analysis in Python: Hotel Reviews Data](https://github.com/arielseidman/Hotels.git) 
 <!---#### Technical Skills: Python, R, SQL, Matlab, Stata
 
 ## Education 			        		
@@ -17,14 +22,6 @@ Senior Reserach Paper: Mathematics for Machine Learning
 **Mathematics Tutor @ The University of California, Santa Cruz (_September 2021 - March 2022_)** 
 
 ## <code style="color : blue">Projects</code>-->
-
-### Sentiment Analysis in Python: Recipe Reviews Data
-
-### K-Means Clustering in R: Land Mines Data
-
-### SQL
-
-### Successive Over-Relaxation Algorithm in Matlab
 
 <!---## <code style="color : blue">Publications</code>
 
