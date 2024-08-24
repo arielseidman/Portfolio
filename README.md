@@ -4,7 +4,10 @@
 
 **Completed**
 [K-Means Clustering in R: Plants Data]( https://github.com/arielseidman/Plants.git)
-![Alt text](PCA.png)
+
+[<img src="PCA.png" alt="PCA" style="display: block;">]( https://github.com/arielseidman/Plants.git)
+
+
 
 
 **In-Progress**
