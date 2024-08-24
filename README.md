@@ -1,16 +1,14 @@
-**Ariel Seidman**
+<span style="font-size: 45px;">**Ariel Seidman**</span>
 
-<span style="font-size: 70px;">Custom-sized text</span>
+<span style="font-size: 35px;">**Selected Projects in Machine Learning**</span>
 
-**Selected Projects in Machine Learning**
-
-**Completed:**
+<span style="font-size: 25px;">**Completed:**</span>
 
 [K-Means Clustering in R: Plants Data]( https://github.com/arielseidman/Plants.git)
 
 [<img src="PCA.png" alt="PCA" style="display: block;">]( https://github.com/arielseidman/Plants.git)
 
-**Under Construction/In-Progress:**
+<span style="font-size: 25px;">**Under Construction/In-Progress:**</span>
 
 [Sentiment Analysis in Python: Hotel Reviews Data](https://github.com/arielseidman/Hotels.git) 
 
