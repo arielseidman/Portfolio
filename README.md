@@ -8,7 +8,7 @@
 
 [<img src="PCA.png" alt="PCA" style="display: block;">]( https://github.com/arielseidman/Plants.git)
 
-**In-Progress**
+**Under Construction/In-Progress**
 
 [Sentiment Analysis in Python: Hotel Reviews Data](https://github.com/arielseidman/Hotels.git) 
 
