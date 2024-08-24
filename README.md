@@ -1,10 +1,14 @@
-## Projects
+**Ariel Seidman**
 
-### Completed
-#### [K-Means Clustering in R: Plants Data]( https://github.com/arielseidman/Plants.git)
+**Selected Projects in Machine Learning**
 
-### In-Progress
-#### [Sentiment Analysis in Python: Hotel Reviews Data](https://github.com/arielseidman/Hotels.git) 
+**Completed**
+[K-Means Clustering in R: Plants Data]( https://github.com/arielseidman/Plants.git)
+![Alt text](PCA.png)
+
+
+**In-Progress**
+[Sentiment Analysis in Python: Hotel Reviews Data](https://github.com/arielseidman/Hotels.git) 
 <!---#### Technical Skills: Python, R, SQL, Matlab, Stata
 
 ## Education 			        		
