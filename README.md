@@ -6,6 +6,6 @@
 
 [<img src="plants_image.png" alt="plants_image.png" style="display: block;">]( https://github.com/arielseidman/K-Means_Clustering/blob/main/Plants_nb.md)
 
-[Sentiment Analysis in Python: Hotel Reviews Data](https://github.com/arielseidman/Sentiment_Analysis.git) - 2024
+[Sentiment Analysis in Python: Hotel Reviews Data](https://github.com/arielseidman/Sentiment_Analysis/tree/main) - 2024
 
-[<img src="Hotels_Confusion_Matrix.png" alt="Hotels_Confusion_Matrix.png" style="display: block;">](https://github.com/arielseidman/Sentiment_Analysis.git)
+[<img src="Hotels_Confusion_Matrix.png" alt="Hotels_Confusion_Matrix.png" style="display: block;">](https://github.com/arielseidman/Sentiment_Analysis/tree/main)
