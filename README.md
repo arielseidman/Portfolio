@@ -4,7 +4,7 @@
 
 <span style="font-size: 25px;">Completed:</span>
 
-[K-Means Clustering in R: Plants Data]( https://github.com/arielseidman/K-Means_Clustering/blob/main/Plants_nb.md) - 2024
+[K-Means Clustering in R: Plants Data]( https://github.com/arielseidman/K-Means_Clustering/blob/main/Plants_nb.md) - 2025
 
 [<img src="plants_image.png" alt="plants_image.png" style="display: block;">]( https://github.com/arielseidman/K-Means_Clustering/blob/main/Plants_nb.md)
 
