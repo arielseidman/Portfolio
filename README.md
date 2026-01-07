@@ -10,6 +10,6 @@
 
 <!-- <span style="font-size: 25px;">Under Construction / In-Progress:</span> -->
 
-[Multiclass Sentiment Analysis in Python: Categorizing Hotel Reviews with Imbalanced Data](https://github.com/arielseidman/Sentiment_Analysis)) - 2025
+[Multiclass Sentiment Analysis in Python: Categorizing Hotel Reviews with Imbalanced Data](https://github.com/arielseidman/Sentiment_Analysis) - 2025
 
 [<img src="Hotels_Confusion_Matrix.png" alt="Hotels_Confusion_Matrix.png" style="display: block;">](https://github.com/arielseidman/Sentiment_Analysis)
