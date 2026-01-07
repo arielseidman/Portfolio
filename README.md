@@ -10,6 +10,6 @@
 
 <!-- <span style="font-size: 25px;">Under Construction / In-Progress:</span> -->
 
-[Sentiment Analysis in Python: Hotel Reviews Data](https://github.com/arielseidman/Sentiment_Analysis/blob/main/README.md) - 2025
+[Sentiment Analysis in Python: Hotel Reviews Data]([https://github.com/arielseidman/Sentiment_Analysis/blob/main/README.md](https://github.com/arielseidman/Sentiment_Analysis/tree/main)) - 2025
 
 [<img src="Hotels_Confusion_Matrix.png" alt="Hotels_Confusion_Matrix.png" style="display: block;">](https://github.com/arielseidman/Sentiment_Analysis/blob/main/README.md)
