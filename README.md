@@ -1,4 +1,4 @@
-<span style="font-size: 30px;">Ariel Seidman</span>
+<span style="font-size: 35px;">Ariel Seidman</span>
 
 <span style="font-size: 25px;">Selected Projects in Machine Learning</span>
 
